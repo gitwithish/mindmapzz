@@ -1,0 +1,12 @@
+# virtual environment
+venv/
+mindmapzz venv/
+
+# python cache
+__pycache__/
+
+# env files
+.env
+
+# gradio temp
+.gradio/
